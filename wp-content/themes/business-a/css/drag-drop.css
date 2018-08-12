@@ -1,0 +1,19 @@
+.swicher_color{
+	width:47px;
+	height:47px;
+}
+
+#customize-control-business_option-theme_color input 
+{ display:none !important;}
+
+.color_active{
+	border: 1px solid #000 !important;
+    border-radius: 2px;
+}
+
+#customize-control-business_option-theme_color label{
+    display: inline-block;
+    line-height: 20px;
+    margin: 3px;
+    padding: 0;
+}

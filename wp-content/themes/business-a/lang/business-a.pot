@@ -1,0 +1,662 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: business\n"
+"POT-Creation-Date: 2017-09-19 16:07-0800\n"
+"PO-Revision-Date: 2017-09-19 16:07-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\businessa\\wp-content\\themes"
+"\\business-a\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\businessa\\wp-content\\themes"
+"\\business-a\n"
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/404.php:19
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/breadcrumbs/breadcrumbs.php:73
+msgid "404 Error"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/404.php:23
+msgid "Sorry! This page not founds."
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/404.php:26
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/archive.php:35
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/index.php:28
+msgid "<<"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/archive.php:36
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/index.php:29
+msgid ">>"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content-none.php:4
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content-none.php:10
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content-none.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content-page.php:26
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/template-tags.php:61
+msgid "Posted by: "
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content-page.php:29
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/template-tags.php:64
+msgid "Posted on: "
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content-page.php:41
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content-single.php:32
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content-page.php:45
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content-single.php:36
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content.php:40
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions.php:164
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content.php:24
+msgid "Featured"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/content.php:33
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/business-service-widget.php:64
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions.php:79
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions.php:80
+msgid "Footer Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/header.php:82
+msgid "Toggle navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/homepage-contact.php:25
+msgid "Address: "
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/homepage-contact.php:32
+msgid "Phone: "
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/homepage-contact.php:39
+msgid "Email: "
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/homepage-slider.php:48
+msgid "See More"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/homepage-slider.php:62
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/page.php:37
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/single.php:37
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/template-page-full-width.php:38
+msgid "Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/homepage-slider.php:66
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/page.php:34
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/single.php:34
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/template-page-full-width.php:35
+msgid "Next"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/page.php:35
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/single.php:35
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/template-page-full-width.php:36
+msgid "Next post:"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/page.php:38
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/single.php:38
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/template-page-full-width.php:39
+msgid "Previous post:"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/breadcrumbs/breadcrumbs.php:11
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-blog-settings.php:8
+msgid "Blogs Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-blog-settings.php:13
+msgid "Manage Blogs Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-blog-settings.php:25
+msgid "Enable Post Featured Image"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-blog-settings.php:38
+msgid "Enable Post Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:8
+msgid "General Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:13
+msgid "Top Header"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:25
+msgid "Phone Number:"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:38
+msgid "Email Address:"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:51
+msgid "Header Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:55
+msgid "Facebook URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:67
+msgid "Header Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:71
+msgid "Twitter URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:83
+msgid "Header Linked In URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:87
+msgid "Linked-In URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:99
+msgid "Header Google Plus URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:103
+msgid "Google+ URL"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:115
+msgid "Social icons open window in new tab"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:128
+msgid "Top header bar hide"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:135
+msgid "Layout Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:147
+msgid "Boxed Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:154
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:166
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:179
+msgid "Footer Social Icons Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:192
+msgid "Footer social icon title"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-general-settings.php:205
+msgid "Footer Menu Enable"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:57
+msgid "Slider Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:63
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:271
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:416
+msgid "Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:76
+msgid "Enable Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:89
+msgid "Slider Animation Type"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:106
+msgid "Slider Speed"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:126
+msgid "Slider Content"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:139
+msgid "Select category to show slides"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:150
+msgid "Service Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:155
+msgid "Service Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:169
+msgid "Enable Service Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:176
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:291
+msgid "Section Header"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:189
+msgid "Service Section Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:202
+msgid "Service Section Description"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:209
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:356
+msgid "Section Background"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:221
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:367
+msgid "Section Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:235
+msgid "Service Section Image"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:236
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:382
+msgid "Upload your background image minimum size ( 1600 x 900 )."
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:248
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:394
+msgid "Background Repeat"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:253
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:399
+msgid "No Repeat"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:254
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:400
+msgid "Tile"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:255
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:401
+msgid "Tile Horizontally"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:256
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:402
+msgid "Tile Vertically"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:266
+msgid "News Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:284
+msgid "Enable News Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:303
+msgid "News Section Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:316
+msgid "News Section Description"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:323
+msgid "Section Contents"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:335
+msgid "News No Of Show"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:348
+msgid "News Category Show"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:381
+msgid "News Section Image"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:411
+msgid "Contact Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:430
+msgid "Enable Contact Section"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:443
+msgid "Column Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:455
+msgid "Contact Header"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:468
+msgid "Contact Section Title"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:481
+msgid "Contact Section Description"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:488
+msgid "Contents"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:498
+msgid "Company Location:"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:508
+msgid "Phone:"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-homepage-settings.php:518
+msgid "Company Email:"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-page-settings.php:8
+msgid "Page Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-page-settings.php:13
+msgid "Manage Page Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-page-settings.php:25
+msgid "Enable Page Featured Image"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/customizer/business-page-settings.php:38
+msgid "Enable Page Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/business-service-widget.php:15
+msgid "Business : Service Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/business-service-widget.php:17
+msgid "Business Service Widget"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/business-service-widget.php:89
+msgid "Page:"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/business-service-widget.php:102
+msgid "Click Here!"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:9
+msgid "Primary Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:11
+msgid "The primary widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:19
+msgid "Home Page Service Contents"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:21
+msgid "Drag service widget to show your services in home page."
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:29
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:31
+msgid "The footer sidebar widget area 1"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:39
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:41
+msgid "The footer sidebar widget area 2"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:49
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:51
+msgid "The footer sidebar widget area 3"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:59
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:61
+msgid "The footer sidebar widget area 4"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:69
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/functions/widget/sidebar.php:71
+msgid "Woocommerce widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:6
+msgid "About Business Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:19
+msgid "Welcome To Our"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:21
+msgid "Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:41
+msgid "Have a problem with our theme?"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:42
+msgid ""
+"If you any problem regarding our About Theme. please contact us to click on "
+"Support button."
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:44
+msgid "Support"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:48
+msgid "If you Love it."
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:49
+msgid ""
+"If you like our About Theme and support kindly share us your feedback to "
+"click on Feedback button."
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:51
+msgid "Feedback"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:57
+msgid "Compaire Our Free and Premium Theme Version"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:62
+msgid "Features"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:63
+msgid "Free Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:64
+msgid "Premium Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:67
+msgid "Color Scheme"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:72
+msgid "Front Page"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:77
+msgid "About Template"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:82
+msgid "Contact Template"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:87
+msgid "Social Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:92
+msgid "Blog Templates"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:93
+msgid "Defalut"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:94
+msgid "5 Templates"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:97
+msgid "Google Fonts"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:99
+msgid "500+ Fonts"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:102
+msgid "Responsive Design"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:107
+msgid "Gallery Template"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:112
+msgid "WooCommerce"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:117
+msgid "Parallax Template"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:122
+msgid "Google map"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:127
+msgid "Custom Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:128
+msgid "2"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:129
+msgid "3"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:132
+msgid "Custom Post Type"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:137
+msgid "Pricing Table"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:148
+msgid "Get More Features of About Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\businessa\wp-content\themes\business-a/include/about-theme/welcome-screen.php:150
+msgid "Upgrade To Pro"
+msgstr ""
