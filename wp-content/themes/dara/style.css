@@ -56,7 +56,7 @@ small, strike, strong, sub, sup, tt, var,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td {
-	font-family: inherit;
+	font-family: sans-serif;
 	font-size: 100%;
 	font-weight: inherit;
 	font-style: inherit;
@@ -543,7 +543,6 @@ textarea {
 --------------------------------------------------------------*/
 
 .main-navigation {
-	background-color: #161119;
 	border-bottom: 2px solid rgba(0, 0, 0, 0.03);
 	color: #fff;
 	display: block;
@@ -559,7 +558,7 @@ textarea {
 	color: #fff;
 	display: block;
 	font-size: 15px;
-	font-weight: bold;
+
 	letter-spacing: 1px;
 	outline: none;
 	opacity: 1;
